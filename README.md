@@ -5,3 +5,4 @@ Essa foi uma atividades feita na III unidade sobre back-end com o intuito de apr
 
 ## Tecnologias Utilizadas
 * PHP
+* HTML
