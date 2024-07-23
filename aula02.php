@@ -30,9 +30,9 @@ print "<p>Texto dentro do print</p>";
 //Sempre iniciam com $ seguido do nome da variável
 //Não é necessário identificar o tipo do dado
 //Para criar uma variável basta atribuir um valor a ela.
-$nome = "Daniella";
+$nome = "Letícia";
 $idade = 17;
-$altura = 1.53;
+$altura = 1.68;
 echo "$nome tem $altura m e $idade anos de idade<br>"; 
 
  //Aritmética Básica 
