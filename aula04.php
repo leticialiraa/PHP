@@ -23,7 +23,7 @@
 </head>
 <body>
     <?php
-    echo "<h1> Tabela de barbie em PHP </h1>";
+    echo "<h1> Tabela em meninas super poderosas PHP </h1>";
     echo "<table><tr>";
     for ($i=1; $i<=5; $i++) {
         echo "<td><img src='img/foto$i.jpg'></td>";
