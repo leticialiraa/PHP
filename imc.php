@@ -15,18 +15,17 @@
 
 {
             if ($imc < 18.5) {
-                $classificacao = "Abaixo do peso";
+                echo "Abaixo do peso";
             } elseif ($imc < 24.9) {
-                $classificacao = "Peso normal";
+                echo  "Peso normal";
             } elseif ($imc < 29.9) {
-                $classificacao = "Sobrepeso";
+                echo  "Sobrepeso";
             } else {
-                $classificacao = "Obesidade";
+                echo "Obesidade";
             }
 
         }
     }
-    header("Location: aula11.php?res=$classificacao");
     ?>
 
     ?>
